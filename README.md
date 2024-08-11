@@ -1,0 +1,2 @@
+# Nutritional-Content-Analysis-and-Predictive-Modeling-for-Recipe-Sites
+This notebook delves into the nutritional content of recipes, exploring correlations between key nutritional metrics such as protein, calories, sugar, and carbohydrates. The analysis includes data preprocessing and predictive modeling to enhance understanding and provide actionable insights for optimizing recipe recommendations.
